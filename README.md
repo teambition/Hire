@@ -15,6 +15,14 @@
 - IE的滚动条太丑，使用前端技术实现一个自定义的滚动条
 - 在canvas上绘制一个可拖动矩形色块，不使用封装canvas的类库
 
+### Nodejs
+
+以下请使用`coffeescript`编写
+
+- 实现一个可用的hook模块
+- 使用`mongoose+express`实现一套简单的RESTful接口
+  - +分: 用到前面实现的hook模块
+- 利用Streaming写一个websocket的例子
 
 > 时间不限，优美的代码，漂亮的设计，好用的功能都是你的加分项，欢迎把你的简历和作品发送到：[hr@teambition.com](hr@teambition.com)
 
