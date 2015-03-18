@@ -24,16 +24,10 @@
 
 ### 加分题
 
-以下请使用`coffeescript`编写
+请使用`coffeescript`或`javascript`编写
 
-- 实现一个可用的hook模块
-- 使用`mongoose+express`实现一套简单的RESTful接口
-  - +分: 用到前面实现的hook模块
-- 利用Streaming写一个websocket的例子
-
-
+- 实现一个可用的hook模块，并提交完整测试代码。
+- 实现一套基础任务队列系统（协议与中间件任选）。需要具备分布式，可横向扩展，错误警告与重试，数据持久化特性，能通过 c10k 测试。
+- 使用基础 http/https 模块实现一个反向代理 server，并提交完整测试代码。
 
 > 欢迎把你的简历和作品发送到：[hr@teambition.com](hr#teambition.com)
-
-
-
