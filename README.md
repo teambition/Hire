@@ -9,7 +9,7 @@
 
 #### Teambition 前端工程师的主要工作内容：
 
-* 开发基于 Backbone/React/Vue/Angular2 的实时协作的 SPA
+* 开发基于 Backbone/React/Vue 的实时协作的 SPA
 * 产品功能和活动的内容站点、移动端网页、微信页面等等
 
 #### 因此除简历外，我们希望能更多了解你开发的能力、兴趣和习惯比如：
@@ -47,7 +47,7 @@
 
 #### 让你脱颖而出的加分题：
 
-以下问题请任选**一到二题**，CoffeeScript 或 JavaScript 编写，并包含完整**测试代码**，如果有简单易懂的 README 文档，将是一个大加分项:
+以下问题请任选**一到二题**，JavaScript 编写，并包含完整**测试代码**，如果有简单易懂的 README 文档，将是一个大加分项:
 
 * 实现一个可用的 Hook 模块
 * 实现一组 Restful API，读取 Mongodb profile，计算一年内每天，每周，每月的平均响应时间并返回 JSON 格式数据
